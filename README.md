@@ -21,7 +21,7 @@
 
 #!/bin/bash
 # 1) Create Ubuntu EC2 instance in AWS
-
+Manager (4GB RAM , 2 Core)  t2.medium
 ## 2a) create kops user
 ``` sh
  sudo adduser kops
